@@ -1,0 +1,6 @@
+pandas 
+numpy 
+flask
+
+# trigger setup.py when we run this requirements.txt and then will create the packages
+-e .
